@@ -1,1 +1,5 @@
 # Research-Data---CrpYld-to-FertlzConsmp
+
+The primary dataset for this research was sourced from the World Bank, a reputable international institution that provides comprehensive and reliable statistical information. The data encompasses a wide range of variables related to agricultural indicators, including but not limited to cereal yields and fertilizer consumption. The choice of the World Bank as the data source ensures the reliability and global coverage of the information, facilitating a robust analysis of trends and patterns over the specified timeframe.
+
+Upon retrieval from the World Bank database, the raw data underwent thorough processing using R scripting to ensure consistency and coherence. This involved transposing the datasets to align with the progression of years, creating a unified structure for easy interpretation and analysis. The processed data was then organized into a structured format, allowing for a seamless integration into statistical tools for further examination.
